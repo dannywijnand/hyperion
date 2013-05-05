@@ -1,4 +1,6 @@
-package com.example.hyperapp;
+package com.hyperion.hyperapp;
+
+import com.example.hyperapp.R;
 
 import android.os.Bundle;
 import android.app.Activity;
